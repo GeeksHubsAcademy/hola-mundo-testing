@@ -17,4 +17,7 @@ function sum(a, b) {
  
 ```
 
-Probando
+Travis
+```
+https://travis-ci.com/TuUsuarioAqui/hola-mundo-testing-js-jest-travis
+```
