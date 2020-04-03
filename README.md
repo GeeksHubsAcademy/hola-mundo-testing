@@ -1,13 +1,11 @@
 # "hola mundo" js + jest + travis
 
-<figure>
- [![Foo](http://www.google.com.au/images/nav_logo7.png)](https://travis-ci.com/GeeksHubsAcademy/hola-mundo-testing-js-jest-travis)
- 
-  <figcaption> <img src="https://travis-ci.com/GeeksHubsAcademy/hola-mundo-testing-js-jest-travis.svg?branch=master" heigth="20" witdh="40" href="https://travis-ci.com/GeeksHubsAcademy/hola-mundo-testing-js-jest-travis"> </figcaption>
-</figure>
+<img src="" heigth="20" witdh="40" href=""> </figcaption>
 
 
+[![](https://travis-ci.com/GeeksHubsAcademy/hola-mundo-testing-js-jest-travis.svg?branch=master)](https://travis-ci.com/GeeksHubsAcademy/hola-mundo-testing-js-jest-travis)
 
+[![](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 Test
 ```
 test('adds 1 + 2 to equal 3', () => {
