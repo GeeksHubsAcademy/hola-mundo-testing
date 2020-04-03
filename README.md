@@ -1,10 +1,6 @@
 # "hola mundo" js + jest + travis
 
-<figure>
- <img src="https://pbs.twimg.com/media/DTWeg6DVMAE2Em1.png" height="64" width="64">
-  <figcaption> <img src="https://travis-ci.com/GeeksHubsAcademy/hola-mundo-testing-js-jest-travis.svg?branch=master" heigth="20" witdh="40" href="https://travis-ci.com/GeeksHubsAcademy/hola-mundo-testing-js-jest-travis"> </figcaption>
-</figure>
-
+[![](https://travis-ci.com/GeeksHubsAcademy/hola-mundo-testing-js-jest-travis.svg?branch=master)](https://travis-ci.com/GeeksHubsAcademy/hola-mundo-testing-js-jest-travis)
 
 Test
 ```
@@ -21,4 +17,14 @@ function sum(a, b) {
  
 ```
 
-Probando
+#### Travis
+```
+Web
+https://travis-ci.com/xxxxxxxx/hola-mundo-testing-js-jest-travis
+
+Shield
+[![](https://travis-ci.com/xxxxxxxx/hola-mundo-testing-js-jest-travis.svg?branch=master)](https://travis-ci.com/xxxxxxxx/hola-mundo-testing-js-jest-travis)
+
+Donde xxxxxxxx es tu usuario
+
+```
