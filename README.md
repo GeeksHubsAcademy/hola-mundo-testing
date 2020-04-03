@@ -1,7 +1,8 @@
 # "hola mundo" js + jest + travis
 
 <figure>
- <a href="https://travis-ci.com/GeeksHubsAcademy/hola-mundo-testing-js-jest-travis" rel="">![Foo](https://pbs.twimg.com/media/DTWeg6DVMAE2Em1.png)</a>
+ [![Foo](http://www.google.com.au/images/nav_logo7.png)](https://travis-ci.com/GeeksHubsAcademy/hola-mundo-testing-js-jest-travis)
+ 
   <figcaption> <img src="https://travis-ci.com/GeeksHubsAcademy/hola-mundo-testing-js-jest-travis.svg?branch=master" heigth="20" witdh="40" href="https://travis-ci.com/GeeksHubsAcademy/hola-mundo-testing-js-jest-travis"> </figcaption>
 </figure>
 
