@@ -17,7 +17,7 @@ function sum(a, b) {
  
 ```
 
-Travis
+#### Travis
 ```
 Web
 https://travis-ci.com/xxxxxxxx/hola-mundo-testing-js-jest-travis
@@ -25,5 +25,6 @@ https://travis-ci.com/xxxxxxxx/hola-mundo-testing-js-jest-travis
 Shield
 [![](https://travis-ci.com/xxxxxxxx/hola-mundo-testing-js-jest-travis.svg?branch=master)](https://travis-ci.com/xxxxxxxx/hola-mundo-testing-js-jest-travis)
 
-Dodne xxxxxxxx es tu usuario
+Donde xxxxxxxx es tu usuario
+
 ```
