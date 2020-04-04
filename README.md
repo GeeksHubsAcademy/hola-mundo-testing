@@ -1,6 +1,6 @@
 # "hola mundo" js + jest + travis
 
-[![](https://travis-ci.com/GeeksHubsAcademy/hola-mundo-testing-js-jest-travis.svg?branch=master)](https://travis-ci.com/GeeksHubsAcademy/hola-mundo-testing-js-jest-travis)
+[![](https://travis-ci.com/MGM-80/hola-mundo-testing-js-jest-travis.svg?branch=master)](https://travis-ci.com/MGM-80/hola-mundo-testing-js-jest-travis)
 
 Test
 ```
